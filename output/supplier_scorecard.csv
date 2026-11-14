@@ -1,0 +1,7 @@
+supplier_id,lots,accepted,score_pct,flag
+SUP-01,9,9,100.0,OK
+SUP-02,9,8,88.9,OK
+SUP-03,5,4,80.0,OK
+SUP-04,9,7,77.8,PROBATION
+SUP-05,7,3,42.9,PROBATION
+SUP-06,1,1,100.0,OK
